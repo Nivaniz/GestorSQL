@@ -8,6 +8,15 @@ Este es un programa desarrollado en Python con Qt/Py con una base de datos SQLit
 
 ## Ventanas
 
+Ventana Principal:
+<p align="center">
+  <img src="https://github.com/Nivaniz/GestorSQL/blob/main/photos/mainwindow.png" alt="Main Window" style="width: 50%; max-width: 200px;">
+</p>
+
+Ventana de Edición/Confrimación:
+<p align="center">
+  <img src="https://github.com/Nivaniz/GestorSQL/blob/main/photos/Confirmation.png" alt="Main Window" style="width: 50%; max-width: 200px;">
+</p>
 
 ## Ejecución 
 
